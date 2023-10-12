@@ -3,8 +3,8 @@
 
 /**
  * print_strings - Prints strings followed by a new line.
- * @separator: string separator between the strings
- * @n: number of strings passed to the fu
+ * @separator: string to separate between the strings
+ * @n: number of strings to print
  *
  * Return: 0
  */
