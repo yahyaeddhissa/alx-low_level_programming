@@ -75,6 +75,4 @@ typedef struct shash_table_s
 	shash_node_t *stail;
 } shash_table_t;
 
-shash_table_t *shash_table_create(unsigned long int size);
-
 #endif /* HASH_TABLES_H */
